@@ -1,5 +1,4 @@
 # The-HOUSE-ICN-terminale-S
-
 ================================
 ===   PROJET ICN 2018-2019   ===
 ================================
@@ -41,6 +40,7 @@ On à crée un tableau, qui aurait put être externe dans un autre fichier, de 0
 les murs de ce labyrinthe. On a rajouté des 9 pour mettre en évidence la sortie et des 5 pour les cases
 qui vont activer la suite, c'est à dire la fin de ce mini jeu.
 
+...
 
 
 
